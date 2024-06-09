@@ -6,7 +6,7 @@ function Category() {
     <div><section className="bg-white text-black">
     <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
       <div className="mx-auto max-w-lg text-center">
-        <h2 className="text-3xl font-bold sm:text-4xl">Kickstart your marketing</h2>
+        <h2 className="text-3xl font-bold sm:text-4xl">Choice your service</h2>
   
         <p className="mt-4 text-black">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur aliquam doloribus
@@ -38,7 +38,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Hair Cut</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
@@ -69,7 +69,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Beard Trim</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
@@ -100,7 +100,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Facial</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
@@ -131,7 +131,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Manicure</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
@@ -162,7 +162,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Pedicure</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
@@ -193,7 +193,7 @@ function Category() {
             />
           </svg>
   
-          <h2 className="mt-4 text-xl font-bold text-black">Digital campaigns</h2>
+          <h2 className="mt-4 text-xl font-bold text-black">Hair Coloring and Conditioning</h2>
   
           <p className="mt-1 text-sm text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
