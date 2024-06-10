@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
       <div className="md:px-20">
         <Header/>
         {children}
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/46171223.js"></script>
         <Footer/>
       </div>
       </body>

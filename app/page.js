@@ -13,6 +13,9 @@ export default function Home() {
         <Hero/>
         <CategorySearch/>
         <Category/>
+      
+        
+
       </div>
 
 
