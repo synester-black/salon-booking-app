@@ -12,8 +12,9 @@ export default function Home() {
         {/*Hero Section*/}
         <Hero/>
         <CategorySearch/>
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/46171223.js"></script>
         <Category/>
-      
+        
         
 
       </div>
