@@ -18,7 +18,8 @@ export default function RootLayout({ children }) {
       <div className="md:px-20">
         <Header/>
         {children}
-        <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/46171223.js"></script>
+        <script src="https://app.wotnot.io/chat-widget/6YwrQwW4wfNH104727220068WtZx4YSC.js" defer></script>
+
         <Footer/>
       </div>
       </body>
